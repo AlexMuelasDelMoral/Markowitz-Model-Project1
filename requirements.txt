@@ -1,1 +1,2 @@
 streamlit
+pip install streamlit yfinance pandas numpy scipy matplotlib plotly
